@@ -16,4 +16,8 @@ Programming and learning new technologies, by the way, is, of course, an everyda
       - Be happy about getting up from my bed saying *"How beautiful today is. I will work on something I love."*
 
 - 📫 How to reach me:
-   * You can find all find all information about me on my personal website: **https://rodolfopietro.it/**
+   * :globe_with_meridians: My personal website: **[https://rodolfopietro.it/](https://rodolfopietro.it/)**
+   * :green_book: My Portfolio: **[https://rodolfopietro97.github.io/my-portfolio/](https://rodolfopietro97.github.io/my-portfolio/)**
+   * :newspaper: My Articles: **[https://rodolfopietro97.github.io/my-articles/](https://rodolfopietro97.github.io/my-articles/)**
+
+
