@@ -1,4 +1,4 @@
-- 👋 I'm Rodolfo Pietro Calabrò. Blockchain Software Developer Engineer, Full Stack Software Developer, Creative Coder and Data Scientist.
+- 👋 I'm Rodolfo Pietro Calabrò. **Blockchain Software Developer Engineer**, **Full Stack Software Developer**, **Creative Coder** and **Data Scientist**.
 
 - 👀 I like **Computer Science**, **Innovation**, **Blockchain Technologies**, **Finance** and **Sport**.
 
