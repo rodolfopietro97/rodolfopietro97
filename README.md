@@ -9,7 +9,7 @@ I've put my passion under many experiences in a lot of projects from Blockchain 
 
 Programming and learning new technologies, by the way, is, of course, an everyday challenge
 
-- Like everybody I have some professional goals such as:
+Like everybody I have some professional goals such as:
 * Learning
 * Innovating and Creating
 * Be happy about getting up from my bed saying *"How beautiful today is. I will work on something I love."*
