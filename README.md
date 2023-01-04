@@ -1,10 +1,10 @@
-- 👋 I'm Rodolfo Pietro Calabrò. **Senior Software Developer.**.
+👋 I'm Rodolfo Pietro Calabrò, **Senior Software Developer.**
 
-- 💞️ I have enjoyed Computer Science since I was 13 years old, and it was love at first sight.
+💞️ I have enjoyed Computer Science since I was 13 years old, and it was love at first sight.
 
-- 🌱 This subject is very wide, but my main areas of interest remain **Blockchain Technologies and Distributed Systems**, **Software / Web Development (Full Stack)** and **Research**
+🌱 This subject is very wide, but my main areas of interest remain **Blockchain Technologies and Distributed Systems**, **Software / Web Development (Full Stack)** and **Research**
 
-- :computer: Anyway, in general, I'm open to any kind of innovative type of project, that's because I enjoy creating new things and I strongly believe in innovation.
+:computer: Anyway, in general, I'm open to any kind of innovative type of project, that's because I enjoy creating new things and I strongly believe in innovation.
 I've put my passion under many experiences in a lot of projects from Blockchain Technologies and Parallel Calculus to Frontend and Game Design.
 
 Programming and learning new technologies, by the way, is, of course, an everyday challenge
