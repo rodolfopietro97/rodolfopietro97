@@ -10,13 +10,13 @@ I've put my passion under many experiences in a lot of projects from Blockchain 
 Programming and learning new technologies, by the way, is, of course, an everyday challenge
 
 - Like everybody I have some professional goals such as:
-   - Learning
-   - Innovating and Creating
-   - Be happy about getting up from my bed saying *"How beautiful today is. I will work on something I love."*
+* Learning
+* Innovating and Creating
+* Be happy about getting up from my bed saying *"How beautiful today is. I will work on something I love."*
 
-- 📫 How to reach me:
-   * :globe_with_meridians: My personal website: **[https://rodolfopietro.it/](https://rodolfopietro.it/)**
-   * :green_book: My Portfolio: **[https://rodolfopietro97.github.io/my-portfolio/](https://rodolfopietro97.github.io/my-portfolio/)**
-   * :newspaper: My Articles: **[https://rodolfopietro97.github.io/my-articles/](https://rodolfopietro97.github.io/my-articles/)**
+📫 How to reach me:
+* :globe_with_meridians: My personal website: **[https://rodolfopietro.it/](https://rodolfopietro.it/)**
+* :green_book: My Portfolio: **[https://rodolfopietro97.github.io/my-portfolio/](https://rodolfopietro97.github.io/my-portfolio/)**
+* :newspaper: My Articles: **[https://rodolfopietro97.github.io/my-articles/](https://rodolfopietro97.github.io/my-articles/)**
 
 
