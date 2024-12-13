@@ -1,22 +1,39 @@
-👋 I'm Rodolfo Pietro Calabrò, **Senior Software Developer.**
+# About Me
 
-💞️ I have enjoyed Computer Science since I was 13 years old, and it was love at first sight.
+Hi, I’m **Rodolfo Pietro Calabrò**, a Senior Software Developer, Blockchain Specialist, and Entrepreneur based in Italy.
 
-🌱 This subject is very wide, but my main areas of interest remain **Blockchain Technologies and Distributed Systems**, **Software / Web Development (Full Stack)** and **Research**
+I hold a Bachelor’s and Master’s degree in **Computer Science** and I have worked with industry leaders like **NTT Data**, **Horizen Labs**, and **VeChain Foundation**. Contributing to innovative projects in **Blockchain Development**, **Full Stack Development**, and **Data Science**.
 
-:computer: Anyway, in general, I'm open to any kind of innovative type of project, that's because I enjoy creating new things and I strongly believe in innovation.
-I've put my passion under many experiences in a lot of projects from Blockchain Technologies and Parallel Calculus to Frontend and Game Design.
+## What I Do
 
-Programming and learning new technologies, by the way, is, of course, an everyday challenge
+- **Blockchain Development**: Smart contracts, DApps, SDKs, and core protocols.
+- **Full Stack Development**: Scalable, user-friendly applications with main industry technologies React, NextJS, NestJS, Python, Django, etc.
+- **Consulting Services**: Strategic and technical guidance for startups, enterprises, and individuals. From technical to business development.
 
-Like everybody I have some professional goals such as:
-* Learning
-* Innovating and Creating
-* Be happy about getting up from my bed saying *"How beautiful today is. I will work on something I love."*
+## Why Choose Me?
 
-📫 How to reach me:
-* :globe_with_meridians: My personal website: **[https://rodolfopietro.it/](https://rodolfopietro.it/)**
-* :green_book: My Portfolio: **[https://rodolfopietro97.github.io/my-portfolio/](https://rodolfopietro97.github.io/my-portfolio/)**
-* :newspaper: My Articles: **[https://rodolfopietro97.github.io/my-articles/](https://rodolfopietro97.github.io/my-articles/)**
+I combine technical excellence with a passion for innovation, delivering impactful solutions tailored to your needs. My values are:
 
+- **Collaboration**: Working closely to bring ideas to life.
+- **Quality**: Delivering solutions that exceed expectations.
+- **Growth**: Staying ahead in an ever-evolving industry.
 
+## Skills
+
+I bring a diverse and evolving technical skill set to every project:
+
+- **Python**: Expert in frameworks like Django and Flask, as well as pure Python for backend systems and automation.
+- **TypeScript**: Strong experience in frontend development with React and backend systems using NestJS.
+- **Blockchain Development**: Proficient in Solidity with deep knowledge of distributed systems and consensus protocols.
+- **Learning New Technologies**: Currently expanding my expertise in Go, Haskell, and Rust to enhance my versatility.
+
+## Entrepreneurial Ventures
+
+As an entrepreneur, I strive to combine innovation with practicality to create impactful solutions:
+
+- **MGAR Energy SRLs**: Collaborator with a leading company in Industrial Electrical Systems, where I contribute to the digitalization and optimization of internal processes.
+- **Consulting Services**: Offering tailored solutions for startups and enterprises, helping them harness the power of blockchain, distributed systems, and modern web technologies.
+
+## Let’s Work Together
+
+Looking to innovate or need expert guidance? Let’s connect and turn your vision into reality.
