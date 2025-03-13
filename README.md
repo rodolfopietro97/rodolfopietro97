@@ -27,13 +27,6 @@ I bring a diverse and evolving technical skill set to every project:
 - **Blockchain Development**: Proficient in Solidity with deep knowledge of distributed systems and consensus protocols.
 - **Learning New Technologies**: Currently expanding my expertise in Go, Haskell, and Rust to enhance my versatility.
 
-## Entrepreneurial Ventures
-
-As an entrepreneur, I strive to combine innovation with practicality to create impactful solutions:
-
-- **MGAR Energy SRLs**: Collaborator with a leading company in Industrial Electrical Systems, where I contribute to the digitalization and optimization of internal processes.
-- **Consulting Services**: Offering tailored solutions for startups and enterprises, helping them harness the power of blockchain, distributed systems, and modern web technologies.
-
 ## Let’s Work Together
 
 Looking to innovate or need expert guidance? Let’s connect and turn your vision into reality.
