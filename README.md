@@ -1,8 +1,8 @@
 # About Me
 
-Hi, I’m **Rodolfo Pietro Calabrò**, a Senior Software Developer, Blockchain Specialist, and Entrepreneur based in Italy.
+Hi, I’m **Rodolfo Pietro Calabrò**, a Senior Software Developer and Blockchain Specialist based in Italy.
 
-I hold a Bachelor’s and Master’s degree in **Computer Science** and I have worked with industry leaders like **NTT Data**, **Horizen Labs**, and **VeChain Foundation**. Contributing to innovative projects in **Blockchain Development**, **Full Stack Development**, and **Data Science**.
+I hold a Bachelor’s and Master’s degree in **Computer Science** and I have worked with industry leaders like **NTT Data**, **Horizen Labs**, and **VeChain Foundation**. Contributing to innovative projects in **Blockchain Development** and **Full Stack Development**.
 
 ## What I Do
 
