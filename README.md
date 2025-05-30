@@ -22,10 +22,16 @@ I combine technical excellence with a passion for innovation, delivering impactf
 
 I bring a diverse and evolving technical skill set to every project:
 
-- **Python**: Expert in frameworks like Django and Flask, as well as pure Python for backend systems and automation.
-- **TypeScript**: Strong experience in frontend development with React and backend systems using NestJS.
-- **Blockchain Development**: Proficient in Solidity with deep knowledge of distributed systems and consensus protocols.
-- **Learning New Technologies**: Currently expanding my expertise in Go, Haskell, and Rust to enhance my versatility.
+* **Python**: Expert in frameworks like Django and Flask, as well as pure Python for backend systems and automation.
+* **Javascript/Typescript**: Strong experience in frontend development with React and backend systems using NestJS.
+* **Blockchain Development**: Proficient in Solidity with deep knowledge of Distributed Systems, Consensus Protocols and low level development in Golang, c and c++.
+* **Learning New Technologies**: Continuously expanding my expertise in modern programming languages and frameworks to enhance versatility and adaptability.
+
+## Entrepreneurial Ventures
+As an entrepreneur, I strive to combine innovation with practicality to create impactful solutions:
+
+* **cratichainlab**: Offering tailored solutions for startups and enterprises, helping them harness the power of blockchain, distributed systems, and modern web technologies.
+* **MGAR Energy**: COO with a leading company in Industrial Electrical Systems, where I contribute to the digitalization and optimization of internal processes.
 
 ## Let’s Work Together
 
