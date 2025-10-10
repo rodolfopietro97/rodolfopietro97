@@ -1,14 +1,9 @@
 # About Me
 
-Hi, I’m **Rodolfo Pietro Calabrò**, a Senior Software Developer and Blockchain Specialist based in Italy.
-
-I hold a Bachelor’s and Master’s degree in **Computer Science** and I have worked with industry leaders like **NTT Data**, **Horizen Labs**, and **VeChain Foundation**. Contributing to innovative projects in **Blockchain Development** and **Full Stack Development**.
-
-## What I Do
-
-- **Blockchain Development**: Smart contracts, DApps, SDKs, and core protocols.
-- **Full Stack Development**: Scalable, user-friendly applications with main industry technologies React, NextJS, NestJS, Python, Django, etc.
-- **Consulting Services**: Strategic and technical guidance for startups, enterprises, and individuals. From technical to business development.
+Hi, I’m **Rodolfo Pietro Calabrò**, a Full-Stack Blockchain developer focused on Smart Contracts, dApps, and SDKs. 
+I design and ship production-grade software end to end— from architecture to release—bringing
+experience across startup and enterprise environments. I’m currently open to developer roles
+where I can build secure, scalable Web3 products.
 
 ## Why Choose Me?
 
@@ -20,19 +15,38 @@ I combine technical excellence with a passion for innovation, delivering impactf
 
 ## Skills
 
-I bring a diverse and evolving technical skill set to every project:
+### Expertise In
+- End-to-End dApp Development  
+- Smart Contract Development  
+- SDK & API Development  
+- System Architecture  
+- 360° Blockchain Consulting  
+- Startup Management  
+- Blockchain R&D  
+- Core Blockchain Development  
 
-* **Python**: Expert in frameworks like Django and Flask, as well as pure Python for backend systems and automation.
-* **Javascript/Typescript**: Strong experience in frontend development with React and backend systems using NestJS.
-* **Blockchain Development**: Proficient in Solidity with deep knowledge of Distributed Systems, Consensus Protocols and low level development in Golang, c and c++.
-* **Learning New Technologies**: Continuously expanding my expertise in modern programming languages and frameworks to enhance versatility and adaptability.
+### Technologies
+- **Frontend**: React, Next.js, VueJS, Angular, TailwindCSS  
+- **Backend**: NestJS, ExpressJS, Django, Gin  
+- **Databases**: SQL & NoSQL (PostgreSQL, MySQL, MongoDB, Redis)  
+- **DevOps**: Docker, Kubernetes, CI/CD, GitHub Actions, Google Cloud  
+- **Languages**: TypeScript, JavaScript, Python, Go, Solidity, Java, C/C++  
+- **Web3 Stack**: Hardhat, viem, wagmi, Ethers.js  
 
-## Entrepreneurial Ventures
-As an entrepreneur, I strive to combine innovation with practicality to create impactful solutions:
+## Availability
+- **Locations**: Remote — Italy / EU  
+- **Contract**: Full-Time, Contract-Based  
+- **Start**: Immediate  
 
-* **cratichainlab**: Offering tailored solutions for startups and enterprises, helping them harness the power of blockchain, distributed systems, and modern web technologies.
-* **MGAR Energy**: COO with a leading company in Industrial Electrical Systems, where I contribute to the digitalization and optimization of internal processes.
+## Open to Roles
+- Full-Stack dApps Developer  
+- Smart Contract Engineer  
+- SDK & API Engineer  
+- Startup CTO / Technical Lead  
 
 ## Let’s Work Together
+I’m open to collaborations, freelance projects, or long-term roles where I can bring value through blockchain expertise and scalable Web3 solutions.  
 
-Looking to innovate or need expert guidance? Let’s connect and turn your vision into reality.
+👉 [Hire Me as a Freelancer](https://www.rodolfopietro.it/en)  
+👉 [Work with cratichainlab](https://www.cratichainlab.com/contact)  
+👉 [See My Projects](https://www.cratichainlab.com/showcase)  
