@@ -47,6 +47,6 @@ I combine technical excellence with a passion for innovation, delivering impactf
 ## Let’s Work Together
 I’m open to collaborations, freelance projects, or long-term roles where I can bring value through blockchain expertise and scalable Web3 solutions.  
 
-👉 [Hire Me as a Freelancer](https://www.rodolfopietro.it/en)  
+👉 [Hire Me as a Freelancer](https://www.rodolfopietro.it/)  
 👉 [Work with cratichainlab](https://www.cratichainlab.com/contact)  
 👉 [See My Projects](https://www.cratichainlab.com/showcase)  
