@@ -1,52 +1,24 @@
 # About Me
 
-Hi, I’m **Rodolfo Pietro Calabrò**, a Full-Stack Blockchain developer focused on Smart Contracts, dApps, and SDKs. 
-I design and ship production-grade software end to end— from architecture to release—bringing
-experience across startup and enterprise environments. I’m currently open to developer roles
-where I can build secure, scalable Web3 products.
+I bring Blockchain into the real world with concrete solutions. Feasibility analysis, Rapid prototyping, and Software Development for companies.
+
+I develop innovation, not trending! Most people see Blockchain as a speculative tool. I see it for what it truly is: a technological infrastructure capable of simplifying processes, protecting data integrity, and creating trust where it is currently lacking.
+
+My philosophy is simple: Real solutions, not just illusions!
 
 ## Why Choose Me?
 
-I combine technical excellence with a passion for innovation, delivering impactful solutions tailored to your needs. My values are:
+I’m not here to sell you a trend; I’m here to ensure that every line of code I write solves a real problem. If Blockchain isn’t the right fit for your business, I’ll be the first to tell you.
 
-- **Collaboration**: Working closely to bring ideas to life.
-- **Quality**: Delivering solutions that exceed expectations.
-- **Growth**: Staying ahead in an ever-evolving industry.
+Here is how I transform your ideas in solutions:
 
-## Skills
-
-### Expertise In
-- End-to-End dApp Development  
-- Smart Contract Development  
-- SDK & API Development  
-- System Architecture  
-- 360° Blockchain Consulting  
-- Startup Management  
-- Blockchain R&D  
-- Core Blockchain Development  
-
-### Technologies
-- **Frontend**: React, Next.js, VueJS, Angular, TailwindCSS  
-- **Backend**: NestJS, ExpressJS, Django, Gin  
-- **Databases**: SQL & NoSQL (PostgreSQL, MySQL, MongoDB, Redis)  
-- **DevOps**: Docker, Kubernetes, CI/CD, GitHub Actions, Google Cloud  
-- **Languages**: TypeScript, JavaScript, Python, Go, Solidity, Java, C/C++  
-- **Web3 Stack**: Hardhat, viem, wagmi, Ethers.js  
-
-## Availability
-- **Locations**: Remote — Italy / EU  
-- **Contract**: Full-Time, Contract-Based  
-- **Start**: Immediate  
-
-## Open to Roles
-- Full-Stack dApps Developer  
-- Smart Contract Engineer  
-- SDK & API Engineer  
-- Startup CTO / Technical Lead  
+1. Feasibility Analysis: I tell you upfront if Blockchain serves your business or if it’s just an unnecessary cost.
+2. Rapid Prototyping: I turn your vision into functional software in record time. No months of waiting. I provide a tool to immediately test the project's value.
+3. Full-Stack Development: I build the entire technological architecture for companies seeking a technical partner capable of managing the project from A to Z.
 
 ## Let’s Work Together
-I’m open to collaborations, freelance projects, or long-term roles where I can bring value through blockchain expertise and scalable Web3 solutions.  
+Do you have a project in mind or want to understand if this technology can help you? 
+**Let’s connect and talk!**
 
-👉 [Hire Me as a Freelancer](https://www.rodolfopietro.it/)  
-👉 [Work with cratichainlab](https://www.cratichainlab.com/contact)  
-👉 [See My Projects](https://www.cratichainlab.com/showcase)  
+👉 [Hire Me as a Freelancer](https://www.rodolfopietro.it/)
+👉 [Send me an email](info@rodolfopietro.it)
