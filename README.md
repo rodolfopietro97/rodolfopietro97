@@ -1,35 +1,14 @@
 # About Me
 
-**I bring Blockchain into the real world with concrete solutions**. 
+I started studying computer science at 13, and that early curiosity has stayed with me ever since. What kept me in it wasn't the code itself. It was the moment a hard technical problem turned into something people actually relied on.
 
-Feasibility analysis, Rapid prototyping, and Software Development for companies.
+Early on, I moved into blockchain, back when most engineers treated it as theory. I wanted to build the real thing, so I went after production work. I delivered an enterprise solution for maritime logistics and a central bank digital currency system for the Philippines, both live systems where accuracy had to hold up from day one.
 
+At Vechain, the scope of what I owned changed. I moved past pure engineering into owning products end to end. I became one of the main contributors to vechain sdk js, used by 90,000 plus developers every week, and I led Greencart.vet from the ground up to over a million monthly active users. I wasn't just writing the code anymore. I was deciding what to build and how.
 
-**I develop innovation, not trending!** 
+That's still how I work today. I designed an AI tool that turns electrical panel photos into CAD drawings at MGAR Energy, and I built a renewable energy tokenization platform processing over 150 transactions a second at Digital Energy. Now at DXC Technologies, I drive the architecture behind a geospatial monitoring system for Italy's Ministry of Environment. Whatever the project, I take something complex, figure out what actually matters, and build it so it holds up. That is the approach I bring to every system I touch, turning complicated ideas into software that holds up under real use.
 
-Most people see Blockchain as a speculative tool. 
+I'm looking for my next chapter as a Tech Lead or Lead Software Engineer with backend engineering and blockchain depth ready whenever the problem calls for it.
 
-I see it for what it truly is: a technological infrastructure capable of simplifying processes, protecting data integrity, and creating trust where it is currently lacking.
-
-**My philosophy is simple**: _Real solutions, not just illusions!_
-
-## Why Choose Me?
-
-I’m not here to sell you a trend; I’m here to ensure that every line of code I write solves a **real problem**. 
-
-If Blockchain isn’t the right fit for your business, I’ll be the first to tell you.
-
-
-Here is how I transform your ideas in solutions:
-
-1. **Feasibility Analysis**: I tell you upfront if Blockchain serves your business or if it’s just an unnecessary cost.
-2. **Rapid Prototyping**: I turn your vision into functional software in record time. No months of waiting. I provide a tool to immediately test the project's value.
-3. **Full-Stack Development**: I build the entire technological architecture for companies seeking a technical partner capable of managing the project from A to Z.
-
-## Let’s Work Together
-Do you have a project in mind or want to understand if this technology can help you? 
-**Let’s connect and talk!**
-
-👉 [Hire Me as a Freelancer](https://www.rodolfopietro.it/)
-
+👉 [Visit my website](https://www.rodolfopietro.it/)
 👉 [Send me an email](mailto:info@rodolfopietro.it)
