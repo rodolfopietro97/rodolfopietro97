@@ -9,7 +9,3 @@ At Vechain, the scope of what I owned changed. I moved past pure engineering int
 That's still how I work today. I designed an AI tool that turns electrical panel photos into CAD drawings at MGAR Energy, and I built a renewable energy tokenization platform processing over 150 transactions a second at Digital Energy. Now at DXC Technologies, I drive the architecture behind a geospatial monitoring system for Italy's Ministry of Environment. Whatever the project, I take something complex, figure out what actually matters, and build it so it holds up. That is the approach I bring to every system I touch, turning complicated ideas into software that holds up under real use.
 
 I'm looking for my next chapter as a Tech Lead or Lead Software Engineer with backend engineering and blockchain depth ready whenever the problem calls for it.
-
-👉 [Visit my website](https://www.rodolfopietro.it/)
-
-👉 [Send me an email](mailto:info@rodolfopietro.it)
