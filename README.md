@@ -11,4 +11,5 @@ That's still how I work today. I designed an AI tool that turns electrical panel
 I'm looking for my next chapter as a Tech Lead or Lead Software Engineer with backend engineering and blockchain depth ready whenever the problem calls for it.
 
 👉 [Visit my website](https://www.rodolfopietro.it/)
+
 👉 [Send me an email](mailto:info@rodolfopietro.it)
